@@ -5,7 +5,7 @@ https://github.com/confuseder/hexo-dark-theme
 
 # 文档
 
-[https://docs.nexmoe.com](https://docs.nexmoe.com/)
+[https://docs-dark.gitbook.io/docs-dark/](https://docs-dark.gitbook.io/docs-dark/)
 
 ## 开源协议
 
