@@ -1,6 +1,7 @@
 ## Github
 
-https://github.com/confuseder/hexo-dark-theme
+https://github.com/confuseder/hexo-theme-dark
+
 欢迎 Star，贡献，如遇到问题请留言
 
 # 文档
