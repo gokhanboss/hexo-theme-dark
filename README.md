@@ -4,6 +4,8 @@ https://github.com/confuseder/hexo-theme-dark
 
 欢迎 Star，贡献，如遇到问题请留言
 
+> QQ交流群：1134979627
+
 # 文档
 
 [https://docs-dark.gitbook.io/docs-dark/](https://docs-dark.gitbook.io/docs-dark/)
